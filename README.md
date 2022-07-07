@@ -5,5 +5,3 @@ Este projeto faz parte do curso da Dio.me, onde criei juntamente com a professor
 
 Para criação usamos, HTML e CSS.
 Com o CSS podemos criar as transições e efeitos dos botoes, e o efeito do background usamos um Keyframe.
-
-Clica ai e da uma olhada de como ficou: https://7bl4ck.github.io/RedesSociais/
